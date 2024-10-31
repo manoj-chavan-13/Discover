@@ -1,0 +1,8 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore temporary folders (modify the name as needed)
+temp/
+*.tmp
+
+views/
