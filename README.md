@@ -27,7 +27,7 @@ Discover is a simple web application designed to demonstrate how search engines 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/discover.git
+   git clone https://github.com/manoj-chavan-13/discover.git
    cd discover
    ```
 
